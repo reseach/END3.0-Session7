@@ -1,5 +1,3 @@
-# TSAI Group Assignment
-
 ## SESSION 7 - Learning Rates and Evaluation Metrics
 
 ASSIGNMENT
