@@ -1,13 +1,6 @@
 # TSAI Group Assignment
 
-Group Members:
-
-1. Arjun Gupta
-2. Himanshu
-3. Aeshna Singh
-4. Palash Baranwal
-
-## SESSION 6 - Learning Rates and Evaluation Metrics - Part 1
+## SESSION 7 - Learning Rates and Evaluation Metrics
 
 ASSIGNMENT
 
